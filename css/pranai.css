@@ -1,0 +1,112 @@
+/* * {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border: 4px solid blue;
+} */
+
+body {
+  font-size: 30px;
+  /* border: 5px solid yellowgreen; */
+}
+
+/* p {
+  color: red;
+} */
+
+/* h1,
+h2,
+h3,
+h4 {
+  color: tomato;
+}
+
+.highlight {
+  font-size: 30px;
+  color: springgreen;
+  text-transform: uppercase;
+}
+
+.Vutukuri {
+  color: aqua;
+}
+
+.Pranai {
+  color: blueviolet;
+}
+
+.Divakar {
+  color: chartreuse;
+}
+
+#one {
+  font-style: italic;
+}
+
+#two {
+  font-style: oblique;
+}
+
+#three {
+  font-style: unset;
+}
+ */
+
+/* body section {
+  font-size: 35px;
+  background-color: papayawhip;
+  font-family: "Times New Roman", Times, serif;
+  color: darkcyan;
+} */
+
+/* #first {
+  color: darkgoldenrod;
+  background-color: darkslategray;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#second {
+  color: darkgreen;
+  background-color: lightsalmon;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#third {
+  color: darkred;
+  background-color: lightseagreen;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3 section {
+  color: darkolivegreen;
+}
+
+.first_color {
+  color: darkviolet;
+}
+
+.second_color {
+  color: yellow;
+}
+
+.third_color {
+  color: violet;
+}
+
+h1,
+h2 {
+  border: 3px dashed darkgreen;
+  width: 400px;
+  font-size: 3rem;
+  padding: 0.5em;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+ */
+ 

@@ -1,0 +1,56 @@
+/* 
+Typography is the way that text is arranged and presented.
+*/
+/* body {
+  padding: 10%;
+  font-size: 2rem;
+} */
+/* 
+input,
+button {
+  font: inherit;
+} */
+
+/* p {
+  text-decoration: overline;
+  text-decoration: line-through;
+  text-decoration: underline;
+}
+
+p {
+  text-transform: capitalize;
+  text-transform: lowercase;
+  text-transform: uppercase;
+  text-transform: capitalize;
+}
+
+p {
+  text-align: left;
+  text-align: justify;
+  text-align: right;
+}
+
+p {
+  text-indent: 2em;
+}
+ */
+
+/* p {
+  line-height: 1.5;
+  letter-spacing: 0.1em;
+  word-spacing: 0.1em;
+}
+
+p {
+  font-weight: bold;
+}
+
+p {
+  font-style: italic;
+} */
+
+a {
+  cursor: pointer;
+  text-transform: none;
+  text-decoration: none;
+}

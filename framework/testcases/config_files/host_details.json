@@ -1,0 +1,7 @@
+{
+    "ipaddress": "192.168.1.1",
+    "hostname": "router1",
+    "username": "admin",
+    "password": "password123",
+    "port": 22
+}
